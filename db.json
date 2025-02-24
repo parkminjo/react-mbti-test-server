@@ -1,0 +1,53 @@
+{
+  "testResults": [
+    {
+      "id": "1",
+      "nickname": "짱구",
+      "mbtiResult": "ENTP",
+      "userId": "jjangu1234",
+      "date": "2025. 2. 19. 오후 2:10:18",
+      "visibility": true
+    },
+    {
+      "id": "2",
+      "nickname": "철수",
+      "mbtiResult": "ESTJ",
+      "userId": "ironwater1234",
+      "date": "2025. 2. 21. 오전 9:32:11",
+      "visibility": true
+    },
+
+    {
+      "id": "3",
+      "nickname": "맹구",
+      "mbtiResult": "INTP",
+      "userId": "mang1234",
+      "date": "2025. 2. 22. 오후 1:12:43",
+      "visibility": true
+    },
+    {
+      "id": "4",
+      "nickname": "유리",
+      "mbtiResult": "ENFJ",
+      "userId": "glass1234",
+      "date": "2025. 2. 22. 오후 7:47:33",
+      "visibility": true
+    },
+    {
+      "id": "5",
+      "nickname": "훈이",
+      "mbtiResult": "INFP",
+      "userId": "hun1234",
+      "date": "2025. 2. 23. 오전 11:27:13",
+      "visibility": true
+    },
+    {
+      "id": "31ab",
+      "nickname": "민조",
+      "mbtiResult": "INTJ",
+      "userId": "home1204",
+      "date": "2025. 2. 24. 오후 3:25:01",
+      "visibility": false
+    }
+  ]
+}
